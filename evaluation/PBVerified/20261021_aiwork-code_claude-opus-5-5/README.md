@@ -1,5 +1,7 @@
 # AiWork.Code (claude-opus-5-5) — SWE-PolyBench Verified
 
+**Organization:** Ant Digital Technologies
+
 ## Overview
 
 A single autonomous coding agent running on Claude Opus 5.5 at high thinking effort, working
